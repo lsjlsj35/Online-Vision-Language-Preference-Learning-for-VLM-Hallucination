@@ -1,0 +1,1 @@
+rm -rf tmp_full_model/*

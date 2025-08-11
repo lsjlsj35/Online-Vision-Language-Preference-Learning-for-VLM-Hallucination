@@ -1,0 +1,6 @@
+{
+    "llava": "/opt/tiger/vtcl/model/llava-1.5-7b-hf",
+    "llava13b": "/opt/tiger/vtcl/model/llava-1.5-13b-hf",
+    "llavalib-7b": "/opt/tiger/vtcl/model/llava-v1.5-7b",
+    "llavalib-13b": "/opt/tiger/vtcl/model/llava-v1.5-13b"
+}
